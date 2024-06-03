@@ -1,0 +1,3 @@
+<?php
+
+$currency = "CAD";
